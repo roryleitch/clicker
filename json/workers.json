@@ -73,7 +73,7 @@
     "key": "workers-summies",
     "name": "Summer Students",
     "description": "Their best ideas come between two parties.",
-    "cost_increase": 0.45,
+    "cost_increase": 1.00000045,
     "state": {
       "cost": 1.25e8,
       "rate": 2e7
