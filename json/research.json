@@ -133,7 +133,7 @@
     "key": "research-xib",
     "name": "Ξb'- and Ξb*-",
     "description": "Recently discovered strange beauty baryons. Both differ only in their spin configurations.",
-    "cost_increase": 1.00000001,
+    "cost_increase": 0.75,
     "image": "assets/icons/png/Xi_b.png",
     "info": "html/Xi_b.html",
     "state": {
