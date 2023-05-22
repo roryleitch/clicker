@@ -137,7 +137,7 @@
     "image": "assets/icons/png/Xi_b.png",
     "info": "html/Xi_b.html",
     "state": {
-      "reputation": 2.5e7,
+      "reputation": 5e7,
       "cost": 9e10,
       "info_levels": [ 1 ]
     }
