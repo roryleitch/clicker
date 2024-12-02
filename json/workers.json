@@ -43,7 +43,7 @@
     "key": "workers-permanent",
     "name": "Permanent Staff",
     "description": "Somebody who gets a permanent position in physics has to be good.",
-    "cost_increase": 1.3,
+    "cost_increase": 0.9,
     "state": {
       "cost": 7e5,
       "rate": 9e3
@@ -73,7 +73,7 @@
     "key": "workers-summies",
     "name": "Summer Students",
     "description": "Their best ideas come between two parties.",
-    "cost_increase": 1.00000045,
+    "cost_increase": 0.90,
     "state": {
       "cost": 1.25e8,
       "rate": 2e7
